@@ -1,8 +1,8 @@
-👋 Hi, I’m @crybaby-boop
+👋 Hi, I’m Jannatul Jakia Ohi
 
 👀 Interests: Software development, problem-solving, and exploring emerging technologies.
 
-🌱 Currently learning: Full-stack development
+🌱 Currently learning: AI,Full-stack development
 
 💞️ Looking to collaborate on: Open-source projects.
 
